@@ -376,7 +376,7 @@ body {
     margin: 0;
   }
   .be-foot {
-    background-image: url(public/assets/grycard.jpg);
+    background-image: url(/assets/grycard.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

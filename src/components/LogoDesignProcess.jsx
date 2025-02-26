@@ -36,7 +36,7 @@ const LogoDesignProcess = () => {
                     height="400px" 
                     style={{ borderRadius: '15px' }} 
                     controls={isPlaying}  // Show controls only after play is clicked
-                    poster="src/assets/videoth.jpg"
+                    poster="/assets/videoth.jpg"
                 >
                     <source src="path/to/your/video.mp4" type="video/mp4" />
                     Your browser does not support the video tag.

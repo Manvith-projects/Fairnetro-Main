@@ -2,8 +2,8 @@ import React from "react";
 
 const companies = [
   { name: "Myntra", logo: "path_to_myntra_logo" },
-  { name: "OYO", logo: "src/assets/image.png" },
-  { name: "Amazon", logo: "src/assets/amazon.png" },
+  { name: "OYO", logo: "/assets/image.png" },
+  { name: "Amazon", logo: "/assets/amazon.png" },
   { name: "Flipkart", logo: "path_to_flipkart_logo" },
   { name: "Boat", logo: "path_to_boat_logo" },
   { name: "Entrepreneurs India", logo: "path_to_entrepreneurs_logo" }

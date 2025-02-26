@@ -54,7 +54,7 @@ const Started = () => {
               <div
                 className="process_circle w-30 h-30 text-white rounded-full flex items-center justify-center mx-auto mb-4"
                 style={{
-                  backgroundImage: "url(src/assets/grycard.jpg)",
+                  backgroundImage: "url(/assets/grycard.jpg)",
                   backgroundPosition: "center",
                   backgroundSize: "cover",
                   opacity: "90%",
